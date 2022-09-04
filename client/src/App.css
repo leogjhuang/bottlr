@@ -1,0 +1,10 @@
+.navbar{
+  color: #f5e6ce;
+  background-color: #f5e6ce;
+  text-decoration: none;
+}
+
+.feed:hover{
+  background-color: #f5e6ce;
+  border-bottom: red solid 3px;
+}
